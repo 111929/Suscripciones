@@ -1,0 +1,108 @@
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\EnCode.dll.config
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\EnCode.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\EnCode.pdb
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\csc.exe
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\csc.exe.config
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\csc.rsp
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\csi.exe
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\csi.rsp
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\System.AppContext.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\vbc.exe
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\vbc.exe.config
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\vbc.rsp
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\Antlr3.Runtime.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\Newtonsoft.Json.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\System.Web.Optimization.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\WebGrease.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\System.Web.Optimization.xml
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\Newtonsoft.Json.xml
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\Antlr3.Runtime.pdb
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\es\System.Web.Optimization.resources.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\obj\Debug\EnCode.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\EnCode\EnCode\obj\Debug\EnCode.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\EnCode\EnCode\obj\Debug\EnCode.csproj.CopyComplete
+C:\Users\usuario\source\repos\EnCode\EnCode\obj\Debug\EnCode.dll
+C:\Users\usuario\source\repos\EnCode\EnCode\obj\Debug\EnCode.pdb
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\EnCode.dll.config
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\EnCode.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\EnCode.pdb
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\csc.exe
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\csc.exe.config
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\csc.rsp
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\csi.exe
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\csi.rsp
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\System.AppContext.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\vbc.exe
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\vbc.exe.config
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\vbc.rsp
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\Antlr3.Runtime.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\BCrypt.Net-Next.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\System.Web.Optimization.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\WebGrease.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\BCrypt.Net-Next.xml
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\System.Web.Optimization.xml
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\Antlr3.Runtime.pdb
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\es\System.Web.Optimization.resources.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\obj\Debug\EnCode.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\aplicacion web\EnCode\obj\Debug\EnCode.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\aplicacion web\EnCode\obj\Debug\EnCode.csproj.CopyComplete
+C:\Users\usuario\Desktop\aplicacion web\EnCode\obj\Debug\EnCode.dll
+C:\Users\usuario\Desktop\aplicacion web\EnCode\obj\Debug\EnCode.pdb
